@@ -1,0 +1,51 @@
+{
+  "website": "https://www.intelligo.id",
+  "industry": "Edu-Tech; Online Data & AI Learning Services",
+  "key_products": [
+    "Bootcamp Data Science & AI di Jakarta atau Bandung(offline)",
+    "Bootcamp Data Science (online)",
+    "Bootcamp AI (online)",
+    "Mini Bootcamp, Workshop, Mini Class",
+    "Private Course 1-on-1",
+    "Career coaching (CV, LinkedIn, personal branding)",
+    "Job Ready Bootcamp dengan jaminan interview"
+  ],
+  "audience": [
+    "Mahasiswa",
+    "Pelajar",
+    "Professionals pemula di bidang IT/Data/AI"
+  ],
+  "value_propositions": [
+    "Mentoring 1-on-1 dengan praktisi",
+    "Studi kasus nyata + pembuatan portofolio",
+    "Akses materi forever",
+    "Kelas semi-private (10-15 peserta)",
+    "Side-project & komunitas internal untuk sharing",
+    "Harga terjangkau, beasiswa & payment plan tersedia"
+  ],
+  "unique_features": [
+    "Job Ready Bootcamp + guaranteed job interview",
+    "Pendampingan karir penuh (CV, LinkedIn, branding, Job Connect)",
+    "Multiple learning modes: live class, video course, private tutoring"
+  ],
+  "faq_highlights": {
+    "eligibility": "Terbuka untuk pemula hingga advance",
+    "class_size": "10-15 peserta + 1-on-1 support gratis",
+    "job_ready": "Termasuk personal branding & jaminan interview",
+    "scholarship": "Beberapa peserta berkesempatan mendapatkan beasiswa",
+    "material_access": "Dapat diakses selamanya",
+    "registration": "Pendaftaran via website + konfirmasi WA"
+  },
+  "biaya": {
+    "bootcamp": "Hubungi admin untuk harga spesifik",
+    "private_course": "Hubungi admin untuk harga spesifik",
+    "beasiswa": "Tersedia untuk peserta terpilih",
+    "cicilan": "Tersedia opsi cicilan, silahkan hubungi admin"
+  },
+  "jadwal_kelas":{
+    "bootcamp_offline":"Sabtu-Minggu (Jakarta/Bandung) jam 10.00-17.00",
+    "Bootcamp Data Science (online)":"3x seminggu jam 19.30-21.30",
+    "Bootcamp AI (online)": "3x seminggu jam 19.30-21.30"
+  },
+  "additional_notes": "Sumber data sebagian berasal dari halaman utama https://www.intelligo.id dan LinkedIn resmi perusahaan."
+}
