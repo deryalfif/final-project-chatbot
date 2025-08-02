@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 class KnowledgeBase:
-    def __init__(self, api_key):
+    def __init__(self, api_key=st.secrets["OPENAI_API_KEY"]):
         self.embeddings = OpenAIEmbeddings(openai_api_key=api_key)
         self.vectorstore = None
         self.auto_load_knowledge()
@@ -175,7 +175,7 @@ class StudentVerification:
         return info
 
 class ChatAgent:
-    def __init__(self, api_key=os.getenv("OPENAI_API_KEY"), model="gpt-4o-mini"):
+    def __init__(self, api_key=st.secrets["OPENAI_API_KEY"], model="gpt-4o-mini"):
         self.client = openai.OpenAI(api_key=api_key)
         self.model = model
         self.system_prompt = """Kamu adalah AI Assistant chatbot Data Science & AI di Intelligo ID. Kamu membantu siswa dengan pertanyaan teknis dan administrasi terkait bootcamp. Gunakan bahasa Indonesia yang friendly dan profesional."""
